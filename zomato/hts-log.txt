@@ -1,0 +1,13 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Sun, 13 Mar 2022 19:38:05 at https://www.zomato.com
+(winhttrack https://www.zomato.com -O "/root/websites/zomato" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:40:05	Error: 	"Receive Time Out" (-2) after 2 retries at link https://www.zomato.com/robots.txt (from primary/primary)
+19:40:06	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.zomato.com/ (from primary/primary)
+19:42:06	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.zomato.com/ (from primary/primary)
+19:44:06	Error: 	"Receive Time Out" (-2) after 2 retries at link https://www.zomato.com/ (from primary/primary)
+19:44:06	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
